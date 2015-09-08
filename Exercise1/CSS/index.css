@@ -1,0 +1,24 @@
+form, .otherForm {
+    border: 1px solid;
+    width: 300px;
+    margin: 5px;
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+    margin: 5px;
+}
+
+.result{
+    border: 1px solid;
+    text-align:center;
+    margin: 5px;
+    width: auto;
+}
+
+Form:hover .otherForm{
+    visibility: hidden;
+}
